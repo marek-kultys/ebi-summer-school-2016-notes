@@ -1,4 +1,4 @@
-### FINDING VARIATION IN GENES
+# 2. FINDING VARIATION IN GENES
 
 At this point we know what are the variants in our genome and where are the genes. We can find out how many variants listed in each .vcf file that we produced fall into the annotated genes. That will tell us what proportion of variation happened in coding regions of the genome (based on the knowledge of those genes that we have).
 

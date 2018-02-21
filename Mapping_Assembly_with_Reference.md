@@ -1,4 +1,4 @@
-### MAPPING ASSEMBLY WITH REFERENCE
+# 4. MAPPING ASSEMBLY WITH REFERENCE
 
 #### Mapping Raw Reads onto Reference with *BWA*
 

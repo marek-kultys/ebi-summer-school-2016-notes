@@ -1,4 +1,4 @@
-### GENOME ANNOTATION
+# 3. GENOME ANNOTATION
 
 It is possible to annotate fasta sequences or de novo genome assemblies for genes.
 

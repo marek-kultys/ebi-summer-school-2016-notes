@@ -1,4 +1,4 @@
-### DE NOVO ASSEMBLY
+# 1. DE NOVO ASSEMBLY
 
 #### De Novo Genome Sequence Assembly of the E. Coli 11-3677 Strain
 

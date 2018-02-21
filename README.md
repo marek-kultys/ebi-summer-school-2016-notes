@@ -20,7 +20,7 @@ These notes are licensed under the [CC-BY-4.0](https://creativecommons.org/licen
 
 ### List of Contents:
 
-- [De-Novo_Assembly](De-Novo_Assembly.md)
-- [Mapping_Assembly_with_Reference](Mapping_Assembly_with_Reference.md)
-- [Genome_Annotation](Genome_Annotation.md)
-- [Finding_Variant_in_Genes](Finding_Variant_in_Genes.md)
+- [1. De-Novo_Assembly](De-Novo_Assembly.md)
+- [2. Mapping_Assembly_with_Reference](Mapping_Assembly_with_Reference.md)
+- [3. Genome_Annotation](Genome_Annotation.md)
+- [4. Finding_Variant_in_Genes](Finding_Variant_in_Genes.md)
