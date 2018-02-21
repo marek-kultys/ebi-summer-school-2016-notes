@@ -26,4 +26,4 @@ These notes are licensed under the [CC-BY-4.0](https://creativecommons.org/licen
 
 [3. Genome_Annotation](Genome_Annotation.md)
 
-[4. Finding_Variant_in_Genes](Finding_Variant_in_Genes.md)
+[4. Finding_Variants_in_Genes](Finding_Variants_in_Genes.md)
