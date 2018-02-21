@@ -1,4 +1,7 @@
-# ebi-summer-school-2016-notes
+# EBI Summer School in Bioinformatics 2016
+
+##### Lab Notes by Marek Kultys
+
 These are lab notes taken during the EBI Summer School in Bioinformatics in 2016. The notes cover the work for the genome assembly project.
 
 ### NOTES ON THE NOTES
@@ -11,13 +14,13 @@ These notes are licensed under the [CC-BY-4.0](https://creativecommons.org/licen
 
 ---
 
-**Genome Assembly project** is inspired by [this paper](http://www.pnas.org/content/109/8/3065.full) reporting on the E. Coli outbreak in Germany and France in 2011. We will be using the data produced by the team behind the paper. Project outline available online on [EBI Summer School Google Folder](http://goo.gl/m7F6rT).
+**Genome Assembly project** is inspired by [this paper](http://www.pnas.org/content/109/8/3065.full.pdf) reporting on the E. Coli outbreak in Germany and France in 2011. We will be using the data produced by the team behind the paper. Project outline available online on [EBI Summer School Google Folder](http://goo.gl/m7F6rT).
 
 ---
 
-List of Contents:
+### List of Contents:
 
-[De-Novo_Assembly](De-Novo_Assembly.md)
-[Mapping_Assembly_with_Reference](Mapping_Assembly_with_Reference.md)
-[Genome_Annotation](Genome_Annotation.md)
-[Finding_Variant_in_Genes](Finding_Variant_in_Genes.md)
+- [De-Novo_Assembly](De-Novo_Assembly.md)
+- [Mapping_Assembly_with_Reference](Mapping_Assembly_with_Reference.md)
+- [Genome_Annotation](Genome_Annotation.md)
+- [Finding_Variant_in_Genes](Finding_Variant_in_Genes.md)
