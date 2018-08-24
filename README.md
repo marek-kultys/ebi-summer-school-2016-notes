@@ -31,3 +31,4 @@ These notes are licensed under the [CC-BY-4.0](https://creativecommons.org/licen
 
 
 ![EBI Bioinformatics Summer School 2016 cohort](GroupPhoto.jpg)
+Photo by EBI
